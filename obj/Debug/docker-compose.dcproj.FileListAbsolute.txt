@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ExampleApplication\bin\Debug\ExampleApplication.deps.json
+C:\Users\User\source\repos\ExampleApplication\bin\Debug\ExampleApplication.runtimeconfig.json
+C:\Users\User\source\repos\ExampleApplication\bin\Debug\ExampleApplication.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExampleApplication\bin\Debug\appsettings.Development.json
+C:\Users\User\source\repos\ExampleApplication\bin\Debug\appsettings.json
+C:\Users\User\source\repos\ExampleApplication\bin\Debug\ExampleApplication.exe
+C:\Users\User\source\repos\ExampleApplication\bin\Debug\ExampleApplication.dll
+C:\Users\User\source\repos\ExampleApplication\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\source\repos\ExampleApplication\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\source\repos\ExampleApplication\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\source\repos\ExampleApplication\bin\Debug\Microsoft.OpenApi.dll
+C:\Users\User\source\repos\ExampleApplication\bin\Debug\ExampleApplication.pdb
+C:\Users\User\source\repos\ExampleApplication\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\User\source\repos\ExampleApplication\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExampleApplication\obj\Debug\docker-compose.dcproj.CopyComplete
